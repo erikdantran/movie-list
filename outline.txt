@@ -1,0 +1,30 @@
+FULL STACK CONCEPTS:
+
+Front-End:
+  - React:
+    - [ ]Main react file(root/target DOM node?)
+    - [ ]reactDOM
+    - [ ]transpiling (webpack/babel)
+    - [ ]Separation of concerns: component separation/hierarchy
+    - [ ]Function vs class (stateful) components - when to use each
+    - [ ]Client side requests (JQuery's AJA , fetch, a ios)
+    - [ ]passing props
+    - [ ]forms, select dropdowns, buttons, inputs, other UI elements
+
+Back-End:
+  - E press Server:
+    - [ ]handling requests/responses
+      - [ ]using a router file and a controller file
+        - [ ]importing and e porting files/functions
+    - [ ]establishing a port for the Server
+    - [ ]serving static files
+    - [ ]handling JSON data
+
+Database:
+  - (mySQL or mongoDB):
+    - [ ]Creating tables and their relationships
+    - [ ]writing schema file and running it
+    - [ ]connect database to Server
+    - [ ]query and sql statements (CRUD operations)
+    - [ ]querying multiple tables
+    - [ ]establish connection from node application to local mysql instance
